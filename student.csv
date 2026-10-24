@@ -1,0 +1,301 @@
+Student_ID,Study_Hours,Attendance,Marks,Department,Gender
+1,2,75,55,Data Science,Male
+2,3,80,60,IT,Female
+3,4,85,65,AI & ML,Male
+4,5,90,70,Data Science,Male
+5,6,92,75,Data Science,Female
+6,7,95,80,AI & ML,Male
+7,8,96,84,Data Science,Male
+8,3,78,58,Data Science,Male
+9,5,88,72,Data Science,Male
+10,6,91,76,Data Science,Male
+11,4,82,64,AI & ML,Male
+12,7,93,82,IT,Female
+13,8,97,88,IT,Female
+14,2,72,50,CSE,Male
+15,9,98,90,AI & ML,Female
+16,4,87,67,CSE,Male
+17,6,91,75,AI & ML,Female
+18,1,72,47,IT,Male
+19,8,99,87,AI & ML,Female
+20,7,91,81,CSE,Female
+21,5,88,65,CSE,Female
+22,5,83,67,Data Science,Female
+23,6,92,76,IT,Male
+24,5,84,69,IT,Male
+25,5,90,70,CSE,Male
+26,7,93,84,CSE,Male
+27,6,91,75,AI & ML,Male
+28,5,98,74,IT,Female
+29,5,90,66,Data Science,Male
+30,6,91,73,IT,Male
+31,4,83,65,IT,Female
+32,4,79,63,AI & ML,Female
+33,6,94,69,AI & ML,Male
+34,5,93,77,IT,Male
+35,2,76,51,Data Science,Female
+36,4,90,64,CSE,Female
+37,7,93,85,CSE,Male
+38,5,79,71,IT,Female
+39,5,84,66,IT,Male
+40,7,89,77,CSE,Female
+41,9,100,86,Data Science,Female
+42,4,85,69,CSE,Male
+43,8,94,88,AI & ML,Female
+44,3,79,57,CSE,Male
+45,6,91,81,Data Science,Male
+46,3,76,61,IT,Male
+47,8,94,84,Data Science,Male
+48,7,94,84,IT,Male
+49,8,100,81,IT,Female
+50,3,77,57,Data Science,Female
+51,7,91,80,AI & ML,Female
+52,4,82,64,Data Science,Female
+53,4,84,73,CSE,Male
+54,6,88,76,CSE,Female
+55,7,92,81,CSE,Female
+56,6,89,69,IT,Male
+57,4,79,62,CSE,Male
+58,4,82,61,AI & ML,Male
+59,8,95,94,CSE,Female
+60,7,100,82,IT,Female
+61,7,92,80,CSE,Male
+62,10,100,100,CSE,Female
+63,4,84,68,IT,Female
+64,10,100,89,IT,Male
+65,10,100,97,CSE,Female
+66,9,99,94,Data Science,Male
+67,7,96,81,AI & ML,Male
+68,4,81,65,CSE,Female
+69,7,91,80,CSE,Female
+70,4,71,53,Data Science,Female
+71,5,85,67,IT,Female
+72,5,88,71,CSE,Male
+73,6,92,74,CSE,Male
+74,8,99,89,AI & ML,Male
+75,4,82,68,Data Science,Male
+76,3,78,59,IT,Female
+77,3,83,59,CSE,Male
+78,3,79,64,AI & ML,Female
+79,2,66,50,IT,Male
+80,3,83,62,CSE,Female
+81,8,93,81,Data Science,Male
+82,4,88,66,Data Science,Male
+83,6,97,82,CSE,Male
+84,3,82,63,IT,Female
+85,6,94,76,IT,Female
+86,2,83,57,AI & ML,Male
+87,4,78,63,CSE,Male
+88,10,100,91,CSE,Male
+89,4,84,64,Data Science,Female
+90,8,93,82,AI & ML,Female
+91,6,98,73,Data Science,Female
+92,5,84,69,IT,Female
+93,4,80,62,CSE,Male
+94,8,98,81,CSE,Female
+95,5,91,69,Data Science,Male
+96,9,99,90,CSE,Female
+97,4,80,51,AI & ML,Male
+98,5,89,72,AI & ML,Female
+99,6,84,73,Data Science,Male
+100,6,87,76,CSE,Male
+101,3,76,55,AI & ML,Male
+102,4,81,58,Data Science,Male
+103,5,86,72,Data Science,Male
+104,4,90,62,CSE,Female
+105,7,97,84,Data Science,Female
+106,7,94,78,Data Science,Male
+107,1,71,44,CSE,Female
+108,2,79,56,CSE,Female
+109,3,81,64,IT,Female
+110,6,94,76,Data Science,Female
+111,10,100,94,CSE,Female
+112,4,79,56,Data Science,Female
+113,6,81,74,IT,Female
+114,3,79,59,Data Science,Female
+115,3,80,58,CSE,Female
+116,1,73,54,AI & ML,Male
+117,5,84,62,CSE,Male
+118,7,93,78,AI & ML,Female
+119,5,89,71,CSE,Male
+120,8,100,86,Data Science,Female
+121,6,95,68,CSE,Female
+122,5,78,67,IT,Female
+123,6,84,72,AI & ML,Male
+124,6,96,82,IT,Female
+125,8,100,96,IT,Female
+126,4,86,65,Data Science,Male
+127,1,71,49,CSE,Female
+128,6,88,75,Data Science,Female
+129,4,84,66,AI & ML,Female
+130,5,83,68,IT,Male
+131,9,95,90,AI & ML,Female
+132,3,75,61,CSE,Male
+133,7,94,77,IT,Female
+134,7,96,89,CSE,Female
+135,6,97,80,CSE,Female
+136,8,99,88,Data Science,Male
+137,4,85,56,CSE,Female
+138,4,90,68,AI & ML,Female
+139,7,91,76,Data Science,Male
+140,7,90,81,CSE,Female
+141,8,95,89,Data Science,Female
+142,6,90,80,CSE,Female
+143,9,100,90,Data Science,Female
+144,5,85,69,AI & ML,Male
+145,3,85,63,Data Science,Female
+146,1,70,39,CSE,Male
+147,3,81,58,CSE,Male
+148,7,96,80,Data Science,Male
+149,2,78,57,CSE,Male
+150,4,86,64,AI & ML,Male
+151,10,100,98,IT,Male
+152,7,100,83,IT,Male
+153,9,100,95,Data Science,Male
+154,3,76,66,AI & ML,Female
+155,1,74,55,IT,Male
+156,8,93,88,IT,Male
+157,2,76,58,CSE,Male
+158,5,82,66,AI & ML,Male
+159,6,93,74,AI & ML,Male
+160,3,91,61,CSE,Male
+161,9,100,92,IT,Male
+162,9,100,97,AI & ML,Male
+163,6,87,71,IT,Male
+164,5,88,72,CSE,Male
+165,6,95,73,IT,Female
+166,3,79,54,Data Science,Male
+167,5,87,73,Data Science,Male
+168,5,80,64,CSE,Female
+169,4,79,60,IT,Female
+170,7,86,85,AI & ML,Female
+171,2,83,57,AI & ML,Female
+172,4,85,65,Data Science,Male
+173,1,75,49,Data Science,Female
+174,6,89,76,Data Science,Female
+175,7,88,75,AI & ML,Female
+176,7,94,81,IT,Male
+177,10,100,99,CSE,Male
+178,7,90,78,CSE,Female
+179,3,80,50,IT,Male
+180,10,100,92,CSE,Female
+181,3,79,62,AI & ML,Female
+182,7,91,84,CSE,Male
+183,7,90,80,Data Science,Female
+184,3,79,65,IT,Male
+185,8,100,83,CSE,Female
+186,6,84,78,IT,Female
+187,6,87,75,CSE,Female
+188,4,82,67,CSE,Male
+189,8,97,75,CSE,Male
+190,3,77,61,AI & ML,Male
+191,2,83,58,IT,Female
+192,8,99,95,IT,Female
+193,4,79,63,CSE,Male
+194,5,79,62,CSE,Male
+195,9,100,88,Data Science,Female
+196,8,100,89,CSE,Male
+197,7,94,82,CSE,Female
+198,8,88,79,CSE,Female
+199,4,77,57,Data Science,Female
+200,7,94,87,AI & ML,Male
+201,8,100,86,IT,Female
+202,7,94,81,IT,Male
+203,5,87,68,CSE,Male
+204,1,76,55,CSE,Female
+205,6,95,82,CSE,Female
+206,6,87,70,AI & ML,Male
+207,5,88,70,CSE,Female
+208,7,90,75,Data Science,Female
+209,6,86,81,CSE,Female
+210,6,92,78,IT,Female
+211,2,70,50,Data Science,Female
+212,2,76,52,CSE,Female
+213,6,91,78,AI & ML,Male
+214,5,90,70,Data Science,Male
+215,6,86,80,Data Science,Male
+216,6,92,72,IT,Male
+217,6,90,70,CSE,Male
+218,5,92,78,IT,Male
+219,6,87,72,CSE,Male
+220,6,86,79,AI & ML,Male
+221,7,96,85,AI & ML,Female
+222,4,79,57,IT,Male
+223,7,89,76,Data Science,Male
+224,7,97,82,Data Science,Female
+225,6,92,75,CSE,Male
+226,4,70,60,CSE,Male
+227,6,86,71,IT,Male
+228,7,89,78,IT,Female
+229,3,82,64,Data Science,Male
+230,5,92,78,Data Science,Male
+231,5,95,71,CSE,Male
+232,4,86,65,AI & ML,Female
+233,4,79,62,CSE,Female
+234,2,71,46,CSE,Male
+235,3,75,61,CSE,Female
+236,2,78,57,IT,Female
+237,4,88,69,AI & ML,Female
+238,4,75,60,Data Science,Female
+239,4,85,69,IT,Female
+240,6,94,81,AI & ML,Male
+241,5,88,75,AI & ML,Female
+242,4,96,70,IT,Female
+243,4,85,67,Data Science,Male
+244,3,79,57,AI & ML,Male
+245,5,89,70,CSE,Male
+246,5,84,73,IT,Male
+247,9,97,90,Data Science,Male
+248,9,100,91,IT,Male
+249,8,100,90,CSE,Male
+250,10,100,98,CSE,Male
+251,3,83,58,AI & ML,Male
+252,7,92,77,AI & ML,Male
+253,7,100,86,CSE,Female
+254,6,91,78,Data Science,Female
+255,10,100,94,Data Science,Female
+256,10,100,100,IT,Female
+257,7,88,78,IT,Female
+258,7,93,73,CSE,Female
+259,3,87,59,Data Science,Female
+260,3,79,53,IT,Male
+261,7,99,88,Data Science,Female
+262,5,90,73,Data Science,Male
+263,3,72,56,AI & ML,Male
+264,5,89,62,Data Science,Male
+265,6,86,67,CSE,Female
+266,7,95,81,CSE,Male
+267,5,85,62,IT,Female
+268,5,87,74,CSE,Male
+269,5,86,69,IT,Male
+270,6,91,75,CSE,Female
+271,3,77,58,CSE,Male
+272,7,88,74,CSE,Female
+273,10,100,91,CSE,Male
+274,7,97,75,CSE,Female
+275,2,83,57,AI & ML,Male
+276,5,87,72,CSE,Male
+277,2,79,54,AI & ML,Male
+278,1,76,49,CSE,Female
+279,7,88,74,Data Science,Male
+280,5,79,67,IT,Female
+281,4,83,55,Data Science,Male
+282,1,64,40,AI & ML,Male
+283,3,78,56,IT,Male
+284,6,84,70,Data Science,Female
+285,5,84,70,CSE,Male
+286,7,91,79,Data Science,Female
+287,8,99,88,IT,Female
+288,5,84,74,CSE,Female
+289,6,86,79,CSE,Male
+290,5,87,73,CSE,Male
+291,4,95,75,Data Science,Male
+292,5,88,77,IT,Female
+293,7,86,79,IT,Male
+294,3,80,54,Data Science,Male
+295,8,100,91,IT,Male
+296,8,98,82,AI & ML,Male
+297,5,92,80,Data Science,Female
+298,6,95,84,Data Science,Female
+299,2,80,53,CSE,Male
+300,10,100,91,IT,Female
