@@ -1,4 +1,4 @@
-<img width="4032" height="1310" alt="image" src="https://github.com/user-attachments/assets/88fcbf6a-93f5-4096-b1cb-2e7e84852204" />**Student Performance Analytics Dashboard**
+**Student Performance Analytics Dashboard**
 **Overview**
 - This project is an interactive dashboard built using R Shiny to analyze student performance.
 
